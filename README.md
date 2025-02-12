@@ -9,8 +9,8 @@ Proyek ini bertujuan untuk mengeksplorasi dan menganalisis data **PHK (layoffs)*
 - **Data Standardization:** Menghapus spasi berlebih, mengonversi tipe data, dan menyusun data agar lebih rapi.  
 - **Tren & Insight:** Mengidentifikasi pola PHK berdasarkan tahun, bulan, perusahaan, industri, dan negara.  
 
-## 📊 Dataset  
-Dataset diambil dari tabel **`world_layoffs_2.layoffs`**, yang mencakup kolom berikut:  
+## 📊 Dataset
+Dataset yang digunakan berasal dari https://www.kaggle.com/datasets/swaptr/layoffs-2022, yang mencakup kolom berikut:  
 - `company`: Nama perusahaan  
 - `location`: Lokasi perusahaan  
 - `industry`: Industri perusahaan  
